@@ -95,4 +95,4 @@ Feel free to check my portfolio and reach out!
 
 📬 [mohamedhedibra8@gmail.com](mailto:mohamedhedibra8@gmail.com)  
 🌐 [portfolio.hedibra.com](https://portfolio.hedibra.com/)  
-💼 [LinkedIn](https://linkedin.com/in/mohamedbra99) | 🐙 [GitHub](https://github.com/Med-hedi-bra)
+💼 [LinkedIn](https://linkedin.com/in/mohamedbra99) | 🐙 [GitHub](https://github.com/med-hedi-bra)
