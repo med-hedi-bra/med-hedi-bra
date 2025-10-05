@@ -6,7 +6,7 @@ I love building scalable, automated, and secure environments — from CI/CD pipe
 🌐 **Portfolio:** [portfolio.hedibra.com](https://portfolio.hedibra.com/)  
 📧 **Email:** mohamedhedibra8@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/mohamedbra99](https://linkedin.com/in/mohamedbra99)  
-🐙 **GitHub:** [Med-hedi-bra](https://github.com/Med-hedi-bra)
+🐙 **GitHub:** [Med-hedi-bra](https://github.com/med-hedi-bra)
 
 ---
 
